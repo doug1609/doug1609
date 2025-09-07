@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 Me chamo **Douglas Mastelini**, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**.  
 Sou apaixonado por tecnologia, programação e pelo poder que o código tem de transformar ideias em realidade. 🚀
